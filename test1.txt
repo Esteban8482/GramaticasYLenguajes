@@ -1,1 +1,1 @@
-(((!true)))
+((true or false) or (true + false) and ((true or (true or false)) or ((true or false) or false)))
